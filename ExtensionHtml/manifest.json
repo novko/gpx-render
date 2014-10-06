@@ -1,0 +1,13 @@
+{
+    "name": "Strava open map",
+    "version": "1.0",
+    "manifest_version": 2,
+    "permissions": [
+      "http://www.strava.com/dashboard",
+      "downloads"
+    ],
+    "browser_action": {
+      "default_popup": "popup.html"
+    } 
+    
+}
